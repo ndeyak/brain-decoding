@@ -1,1 +1,1 @@
-# brain-decoding
+# Brain decoding project
